@@ -5,7 +5,7 @@ export function FooterComponent() {
   return (
     <footer className="flex flex-row justify-between py-9 px-4 bg-primary w-screen md:px-10 lg:pt-10 lg:px-40">
       <h3
-        className={`${plusJakartaSans.className} text-[28px] text-white self-center font-extrabold text-4xl`}
+        className={`${plusJakartaSans.className} text-[28px] text-white self-center font-extrabold lg:text-4xl`}
       >
         skilled
       </h3>
