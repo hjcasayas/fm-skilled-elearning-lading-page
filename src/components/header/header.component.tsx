@@ -5,7 +5,7 @@ export function HeaderComponent() {
   return (
     <header className="flex flex-row justify-between w-full">
       <h1
-        className={`self-center font-extrabold text-[28px] ${plusJakartaSans.className}`}
+        className={`self-center font-extrabold text-[28px] ${plusJakartaSans.className} lg:text-4xl`}
       >
         skilled
       </h1>
